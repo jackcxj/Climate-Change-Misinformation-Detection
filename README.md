@@ -1,1 +1,2 @@
 # Climate-Change-Misinformation-Detection
+The main task of this project is to identify whether each given document contains climate change misinformation after training the given documents that only contain climate change misinformation. Oneclass SVM and isolation forest methods are applied to fulﬁll the one-class classiﬁcation task with the original data set. Later, I extend the data set which coverts the task to a binary classiﬁcation that can apply different models. Naive bayes classiﬁer obtains the best performance in the test set.
